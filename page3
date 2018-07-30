@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Leo's Rookie Site</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+ </head>
+  
+  <body>
+    <div class="topnav" id="myTopNav">
+    <a href="index.html">Home</a> 
+     <a href="page1.html">Page 1</a> 
+     <a href="page2.html">Page 2</a> 
+     <a href="page3.html">Page 3</a> 
+     <a href="page4.html">Page 4</a>
+     <a href="page5.html">Page 5</a> 
+    </div>
+    
+    <h1>This is Page 3</h1>
+    <p>Original image</p>
+    <image src="images/modernlization.jpg" alt="image missing" />
+    <p>Design</p>
+    <image src="images/design.jpg" alt="image missing"width="300" height="500" />
+    <p>Fashion</p>
+    <image src="images/fashion.jpg" alt="image missing"width="300" height="500" />
+    <p>Development</p>
+    <image src="images/development.jpg" alt="image missing"width="300" height="500" />
+    <p>Water way</p>
+    <image src="images/waterway.jpg" alt="image missing"width="300" height="500" />
+    <p>Tourism</p>
+    <image src="images/tourism1.jpg" alt="image missing"width="300" height="500" />                                                
+    <footer>
+      <a href="https://github.com/leowuyuqi/CODE1230-Urban-Modelling">This is my footer</a>
+    </footer>
+  </body>
+</html>
